@@ -13,8 +13,8 @@
   <li>Node.js</li>
  </ul>
 
-    <h2>Links</h2>
-    <ul>
-        <li><strong>Website:</strong> <a href="https://cart-shopify.netlify.app/">https://cart-shopify.netlify.app/</a></li>
-    </ul>
+<h2>Links</h2>
+<ul>
+ <li><strong>Website:</strong> <a href="https://cart-shopify.netlify.app/">https://cart-shopify.netlify.app/</a></li>
+</ul>
     
