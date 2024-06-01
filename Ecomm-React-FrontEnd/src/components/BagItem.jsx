@@ -1,7 +1,7 @@
 import { useDispatch } from "react-redux";
 import { RiDeleteBin5Fill } from "react-icons/ri";
 import { bagActions } from "../store/bagSlice";
-//jgghvk
+
 const BagItem = ({ item }) => {
   const dispatch = useDispatch();
 
